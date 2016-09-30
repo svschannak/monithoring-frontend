@@ -1,0 +1,16 @@
+.panel-list-item{
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.badge-error{
+  background-color: #940909;
+}
+
+.monitoring-list{
+  margin-top: 10px;
+}
+
+.monitoring-list-item{
+  cursor: pointer;
+}
